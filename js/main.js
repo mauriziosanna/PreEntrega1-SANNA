@@ -21,7 +21,6 @@ const user1 = new user(id, correo, "asd12345");
 console.log(user1);
 
 
-
 const listaUsuarios = [id, correo, nombreCompleto];
 listaUsuarios.push("Acceso por página web");
 
